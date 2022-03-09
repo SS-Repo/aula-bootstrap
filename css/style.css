@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial,sans serif;
+}
+.navbar{
+    background-color: white;
+}
+
+.about{
+    background-color: rgb(29, 32, 207);
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.partners{
+    background-color: rgb(29, 32, 207);
+    color: white;
+}
+
+.services{
+    background-color: rgb(233, 231, 231);
+}
+   
+
+.bg-footer{
+    background-color:black;
+    color: white;
+}
+
+.msg-about{
+    padding-top: 25px;
+    font: 35px 'Montserrat', sans-serif;
+}
